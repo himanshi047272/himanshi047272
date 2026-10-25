@@ -1,116 +1,128 @@
-<h1 align="center">Hi 👋, I'm Himanshi Tanwar</h1>
+
+<h1 align="center">Hi, I'm Himanshi Tanwar 👋</h1>
 
 <h3 align="center">
-AI & Machine Learning Developer | Building Intelligent Systems with Python & Flask
+  BCA (Artificial Intelligence & Machine Learning) Student | Aspiring AI/ML Engineer
 </h3>
 
+<p align="center">
+  Building practical AI applications with Machine Learning, Deep Learning,
+  Generative AI, and Data Analytics.
+</p>
+
+<p align="center">
+  <a href="https://github.com/himanshi047272">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:himanshi047272@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 Bachelor of Computer Applications (BCA)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Data Science
-
-💻 I enjoy building intelligent systems that solve real-world problems through AI.
-
-🌱 Currently exploring Computer Vision, Explainable AI, and Full-Stack AI Applications.
+- 🎓 BCA student specializing in Artificial Intelligence and Machine Learning at Bennett University.
+- 🤖 Interested in AI/ML Engineering, Generative AI, NLP, Computer Vision, and predictive analytics.
+- 🔬 Building Python-based applications that combine machine learning, model evaluation, and practical problem-solving.
+- 📊 Exploring explainable AI, information retrieval, and data-driven decision-making.
+- 🌱 Continuously learning and improving my skills in AI application development and software engineering.
+- 🎯 Open to relevant internships, graduate opportunities, and entry-level roles in AI/ML and software development.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### Programming Languages
+### 1. HealthDoc AI — Healthcare Document Intelligence
 
-- Python
-- SQL
-- C
-- C++
+A document intelligence application designed to extract, search, and answer questions about healthcare and insurance documents.
 
-### Machine Learning
+**Key features**
+- OCR-based text extraction from scanned PDFs.
+- Document preprocessing using Tesseract OCR and OpenCV.
+- Hybrid information retrieval and retrieval-augmented question answering.
+- Source-grounded responses, citation validation, and extractive fallback.
+- Document insights and retrieval/answer-quality evaluation capabilities.
 
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
+**Tech stack:** Python · FastAPI · React · OCR · NLP · RAG · SQLite
 
-### Data Science
+🔗 [Explore my GitHub repositories](https://github.com/himanshi047272)
 
-- Pandas
-- NumPy
-- Matplotlib
+### 2. VisionCare Analytics — Chest X-Ray Classification
 
-### Web Development
+A deep learning research prototype for classifying chest X-ray images into five dataset-defined categories.
 
-- Flask
-- HTML
-- CSS
-- JavaScript
+**Key features**
+- Transfer learning with a pretrained ResNet18 model.
+- Image inference workflow and interactive dashboard.
+- Prediction history, dataset inspection, and model evaluation insights.
+- Grad-CAM-based visualization exploration for explainability and error analysis.
+- Initial experimental test accuracy of 88.25% across 2,025 test images; further data-leakage checks and independent validation remain necessary.
+
+**Tech stack:** Python · PyTorch · Torchvision · ResNet18 · FastAPI · scikit-learn
+
+*Research prototype only; not intended for clinical diagnosis.*
+
+### 3. StreamPulse — Customer Churn Prediction & Analytics
+
+An end-to-end customer churn analytics application combining predictive modeling, explainability, and time-series forecasting.
+
+**Key features**
+- Evaluation of six classification models on held-out test data.
+- RBF SVM achieved 90.8% accuracy and a 0.9096 F1-score in the reported evaluation.
+- Model interpretation using SHAP and LIME.
+- Analysis of engagement, login recency, and subscription-related features.
+- ARIMA/SARIMA forecasting with validation and test evaluation.
+
+**Tech stack:** Python · scikit-learn · SHAP · LIME · Statsmodels · Flask · HTML · CSS · JavaScript
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Data
+Python · SQL · NumPy · Pandas
+
+### Machine Learning & AI
+Machine Learning · Deep Learning · Natural Language Processing · Computer Vision · Transfer Learning
+
+### Frameworks & Libraries
+PyTorch · Torchvision · scikit-learn · FastAPI · OpenCV · spaCy
+
+### Generative AI & Document Intelligence
+Retrieval-Augmented Generation (RAG) · LLM Integration · Information Retrieval · OCR · Evidence-Based Question Answering
+
+### Analytics & Visualization
+Power BI · Data Analysis · Model Evaluation · Data Visualization
 
 ### Tools
-
-- Git
-- GitHub
-- Jupyter Notebook
-- VS Code
+Git · GitHub · Jira · VS Code · SQLite
 
 ---
 
-# 🌟 Featured Projects
+## 📜 Certifications
 
-## 🛰️ EnviroSense Pro
-
-An AI-powered environmental monitoring and disaster prediction platform integrating Machine Learning, live weather APIs, intelligent alerts, interactive dashboards, and an AI assistant.
-
----
-
-## 📊 ChurnAI
-
-A full-stack customer churn prediction platform featuring multiple machine learning models, SHAP explainability, forecasting, and retention recommendations.
+- Business Intelligence & Analytics — NPTEL, IIT Madras
+- Fundamentals of Machine Learning for Healthcare — Stanford Online, Coursera
+- Evaluations of AI Applications in Healthcare — Stanford Online, Coursera
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning — DeepLearning.AI, Coursera
+- Step-by-Step Machine Learning with Python — Infosys Springboard
+- Data Structures and Algorithms — Infosys Springboard
+- Introduction to OpenAI GPT Models — Infosys Springboard
 
 ---
 
-## 🌍 AQI Prediction
+## 🤝 Let's Connect
 
-Machine Learning-based Air Quality Index prediction system using regression models with feature engineering, visualization, and model evaluation.
+I'm interested in connecting with AI/ML engineers, developers, researchers, and recruiters working on practical AI applications.
 
----
-
-## 🔐 Cybersecurity Research
-
-Research study analyzing cybersecurity and privacy challenges in Life & Health Insurance systems through literature review and comparative analysis.
+- **GitHub:** [himanshi047272](https://github.com/himanshi047272)
+- **Email:** [himanshi047272@gmail.com](mailto:himanshi047272@gmail.com)
+- **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
 
-# 📈 Currently Learning
-
-- Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- AI System Design
-- MLOps
-
----
-
-# 🎯 Career Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Predictive Analytics
-- Explainable AI
-- Environmental Intelligence
-
----
-
-# 📫 Connect With Me
-
-📧 Email: **himanshi047272@gmail.com**
-
-💻 GitHub: **github.com/himanshi047272**
-
-🔗 LinkedIn: **https://www.linkedin.com/in/himanshi-tanwar-18208b330/**
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and projects.*
+<p align="center">
+  <i>Learning, building, experimenting, and improving — one project at a time. 🚀</i>
+</p>
