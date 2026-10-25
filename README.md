@@ -117,9 +117,9 @@ Git · GitHub · Jira · VS Code · SQLite
 
 I'm interested in connecting with AI/ML engineers, developers, researchers, and recruiters working on practical AI applications.
 
+- **LinkedIn:** [Himanshi Tanwar](https://www.linkedin.com/in/himanshi-tanwar-18208b330/)
 - **GitHub:** [himanshi047272](https://github.com/himanshi047272)
 - **Email:** [himanshi047272@gmail.com](mailto:himanshi047272@gmail.com)
-- **LinkedIn:** Add your LinkedIn profile URL here.
 
 ---
 
